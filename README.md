@@ -4,6 +4,8 @@
 
 This repository contains a simple ROS 2 simulation setup for testing with **ROS 2 Humble**, **Gazebo Ignition Fortress**, and **RViz**.
 
+Watch the demo on YouTube: [ROS 2 Simple Simulation Demo](https://youtu.be/EWlzLJCx6Ks?si=zkwP2BzcrKuDWuDx)
+
 ## Tested On
 
 - **ROS 2 Humble**
