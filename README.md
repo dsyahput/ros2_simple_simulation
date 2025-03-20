@@ -10,6 +10,8 @@ This repository contains a simple ROS 2 simulation setup for testing with **ROS 
 - **Gazebo Ignition Fortress**
 - **RViz2**
 
+The robot meshes file is obtained from this repository: [razbot_tutorials](https://github.com/Waterfox/razbot_tutorials.git)
+
 ## Setup Instructions
 
 ### Clone the Repository
